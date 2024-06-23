@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m @javar10
+- 👋 Hi, I’m Jess!
 - 👀 I’m interested in software development, particularly building mobile and web apps. 
 - 🌱 I’m currently learning full stack development with Nucamp.
 - 💞️ I’m looking to collaborate on projects that will serve others.
